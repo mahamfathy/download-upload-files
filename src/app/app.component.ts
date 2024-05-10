@@ -43,6 +43,10 @@ export class AppComponent {
       }
     }
   }
+
+
+
+  
 }
 
 // uploadFile(event: any) {
